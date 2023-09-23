@@ -6,3 +6,6 @@
 
 
 ![MARKDOWN](https://itsfoss.com/content/images/wordpress/2021/04/retext_window_showing_syntax_and_preview-2.png)
+``` javascript
+var myVar = "MARKDOWN!";
+```
